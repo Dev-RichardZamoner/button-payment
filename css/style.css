@@ -1,0 +1,102 @@
+.valores, .valores * {
+  box-sizing: border-box;
+  }
+.valores {
+ background: #ffffff;
+  width: 518px;
+  height: 520px;
+  position: relative;
+  overflow: hidden;
+ }
+
+.frame-1 {
+ display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 14px;
+ top: 42px;
+ }
+
+.rectangle-1 {
+ background: #ffffff;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  flex-shrink: 0;
+  width: 489px;
+  height: 446px;
+  position: relative;
+ }
+
+.rectangle-2 {
+ background: #ffffff;
+  border-radius: 50px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  flex-shrink: 0;
+  width: 334px;
+  height: 59px;
+  position: absolute;
+  left: 78px;
+ top: 267px;
+ }
+
+._12-x-de {
+ color: #000000;
+  text-align: center;
+  font: 400 35px 'Amethysta', sans-serif;
+  position: absolute;
+  left: 193px;
+ top: 28px;
+ }
+
+.r {
+ color: #000000;
+  text-align: center;
+  font: 400 35px 'Amethysta', sans-serif;
+  position: absolute;
+  left: 129px;
+ top: 104px;
+ }
+
+._49-90 {
+ color: #000000;
+  text-align: center;
+  font: 400 60px 'Amethysta', sans-serif;
+  position: absolute;
+  left: 183px;
+ top: 72px;
+ }
+
+.no-cart-o-ou-r-500-00-vista-no-boleto-ou-pix {
+ color: #000000;
+  text-align: center;
+  font: 400 35px 'Amethysta', sans-serif;
+  position: absolute;
+  left: 42px;
+ top: 154px;
+ }
+
+.aprenda-em-qualquer-lugar-7-dias-de-garantia-certificado-de-conclus-o {
+ color: #000000;
+  text-align: center;
+  font: 400 20px 'Amethysta', sans-serif;
+  position: absolute;
+  left: 99px;
+ top: 348px;
+ }
+
+.comprar-agora {
+ color: #000000;
+  text-align: center;
+  font: 400 35px 'Amethysta', sans-serif;
+  position: absolute;
+  left: 117px;
+ top: 275px;
+ }
+
